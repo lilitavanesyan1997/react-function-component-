@@ -1,0 +1,38 @@
+.app {
+  text-align: center;
+  color: rgb(138, 48, 114);
+  font-size: 20px;
+  width: 100%;
+  text-shadow: 0 0 10px black,
+  0 0 20px rgb(44, 12, 73);
+}
+
+input {
+  padding: 4px;
+  margin-right: 8px;
+}
+
+
+ul {
+
+  list-style: none;
+}
+
+li {
+  margin: 12px 0;
+}
+.but{color: rgb(138, 48, 114);
+
+}
+
+.delete-button {
+  font-size: 10px;
+  margin-left: 8px;
+
+  border: none;
+  color: rgb(138, 48, 114);
+  border-radius: 4px;
+
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
